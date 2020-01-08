@@ -1,6 +1,6 @@
-require "joseph_cli/version"
+require "top_decade_movies/version"
 
-module JosephCli
+module TopDecadeMovies
   class Error < StandardError; end
   # Your code goes here...
 end
