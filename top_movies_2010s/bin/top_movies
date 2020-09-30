@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-
-require './lib/top_movies_2010s'
-
-TopMovies2010s::CLI.new.call 
